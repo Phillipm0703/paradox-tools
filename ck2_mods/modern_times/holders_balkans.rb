@@ -363,6 +363,10 @@ ModernTimesDatabase::HOLDERS_BALKANS = {
       name: "Prokopis Pavlopoulos",
       lived: "1950-",
     },
+    "2020.3.13" => {
+      name: "Katerina Sakellaropoulou",
+      lived: "1956-",
+    },
   },
   d_bosnia: {
     # President
@@ -399,6 +403,7 @@ ModernTimesDatabase::HOLDERS_BALKANS = {
     "2004.2.26"  => { name: "Ljupčo Jordanovski", lived: "1953.2.13 - 2010.10.7" },
     "2004.5.12"  => { name: "Branko Crvenkovski", lived: "1962.10.2 -" },
     "2009.5.12"  => { name: "Gjorge Ivanov", lived: "1960.5.2 -" },
+    "2019.5.12"  => { name: "Stevo Pendarovski", lived: "1963.4.3 -" },
   },
   # Albania
   d_dyrrachion: {
@@ -421,5 +426,6 @@ ModernTimesDatabase::HOLDERS_BALKANS = {
     "2002.7.24" => { name: "Alfred Moisiu", lived: "1929.12.1 -" },
     "2007.7.24" => { name: "Bamir Topi", lived: "1957.4.24 -" },
     "2012.7.24" => { name: "Bujar Nishani", lived: "1966.9.29 -" },
+    "2012.7.24" => { name: "Ilir Meta", lived: "1969.3.24 -" },
   },
 }
